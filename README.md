@@ -1,10 +1,10 @@
 ## Hi 👋 This is Pawin Prasertsakul
 
-- 🔭 I’m currently working on a **full-stack web application** for **AI applications** related to **computer vision** using **Django**.
+- 🔭 I’m currently working on a **full-stack web application** for **AI applications** related to **computer vision** using **Django**, deployed on a **Raspberry Pi 5**.
 - 🌱 I’m currently learning various tools for **full-stack web development**.
 - 💬 Ask me about **computer vision**, **Python**, or **Django**.
 - ⚡ **Fun Facts**:
-    - I play so many Japanese video games that I learned to read and speak Japanese! 🎮🇯🇵
+    - I play so many Japanese video games (like **Dream Club**) that I learned to read and speak Japanese! 🎮🇯🇵
     - Gacha games are so salty, but I keep drawing for more! 🎲💔
     - I wrote a Python script to automatically organize all my files—it saved my sanity. 🐍📂
 
@@ -24,6 +24,7 @@
 
 <p>
 <a href="https://code.visualstudio.com/"><img src="https://api.iconify.design/skill-icons:vscode-dark.svg" alt="VSCode" width="50" height="50"/></a>
+<a href="https://git-scm.com/"><img src="https://api.iconify.design/skill-icons:git.svg" alt="git" width="50" height="50"/></a>
 <a href="https://www.tensorflow.org/"><img src="https://api.iconify.design/logos:tensorflow.svg" alt="TensorFlow" width="50" height="50"/></a>
 <a href="https://keras.io/"><img src="https://api.iconify.design/devicon:keras.svg" alt="Keras" width="50" height="50"/></a>
 <a href="https://pytorch.org/"><img src="https://api.iconify.design/logos:pytorch-icon.svg" alt="PyTorch" width="50" height="50"/> </a>
@@ -36,6 +37,7 @@
 <a href="https://redis.io/"><img src="https://api.iconify.design/skill-icons:redis-light.svg" alt="Redis" width="50" height="50"/></a>
 <a href="https://www.postman.com/"><img src="https://api.iconify.design/logos:postman-icon.svg" alt="Postman" width="50" height="50"/></a>
 <a href="https://www.docker.com/"><img src="https://api.iconify.design/skill-icons:docker.svg" alt="Docker" width="50" height="50"/></a>
+<a href="https://www.raspberrypi.com/"><img src="https://api.iconify.design/devicon:raspberrypi.svg" alt="RaspberryPi" width="50" height="50"/></a>
 </p>
 
 ### Connect with me
