@@ -1,4 +1,4 @@
-## Hi 👋 This is Pawin Prasertsakul
+## Hi 👋 This is Pawin Prasertsakul ![](https://komarev.com/ghpvc/?username=catptype)
 
 - 🔭 I’m currently working on a **full-stack web application** for **AI applications** related to **computer vision** using **Django**, deployed on a **Raspberry Pi 5**.
 - 🌱 I’m currently learning various tools for **full-stack web development**.
