@@ -1,6 +1,6 @@
 ## Hi 👋 This is Pawin Prasertsakul ![](https://komarev.com/ghpvc/?username=catptype)
 
-- 🔭 I build practical AI solutions from concept to deployment. I am **currently seeking my next role** where I can tackle fun and challenging projects.
+- 🔭 I build practical AI solutions from concept to deployment, often as **full-stack web applications**. I'm **currently seeking my next role** where I can tackle fun and challenging projects.
 - 🌱 I’m currently learning various tools for **full-stack web development**.
 - 💬 Ask me about **computer vision**, **Python**, or **Django**.
 - ⚡ **Fun Facts**:
