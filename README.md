@@ -1,57 +1,96 @@
-## Hi 👋 This is Pawin Prasertsakul ![](https://komarev.com/ghpvc/?username=catptype)
+# Hi there, I'm Pawin Prasertsakul 👋
 
-- 🔭 I build practical AI solutions from concept to deployment, often as **full-stack web applications**. I'm **currently seeking my next role** where I can tackle fun and challenging projects.
-- 🌱 I’m currently learning various tools for **full-stack web development**.
-- 💬 Ask me about **computer vision**, **Python**, or **Django**.
-- ⚡ **Fun Facts**:
-    - I play so many Japanese video games (like **Dream Club**) that I learned to read and speak Japanese! 🎮🇯🇵
-    - Gacha games are so salty, but I keep drawing for more! 🎲💔
-    - I wrote a Python script to automatically organize all my files—it saved my sanity. 🐍📂
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=catptype&color=blue&style=flat-square)
+
+**AI & Full-Stack Engineer | Computer Vision Specialist**  
+*Bridging the gap between deep learning models and real-world applications.*
+
+[📜 View My Web Portfolio](https://catptype.github.io/) &nbsp;&middot;&nbsp; [🔗 Connect on LinkedIn](https://www.linkedin.com/in/pawin-prasertsakul)
+
+</div>
 
 ---
 
-## 💻 Technical Skills
+## 👨‍💻 About Me
 
-Here's a summary of my technical skills, which I've applied in my projects:
+I am an **AI and Full-Stack Engineer** with **7+ years of experience** rooted in Image Signal Processing (ISP) and modern Deep Learning. I don't just build models; I own the entire project lifecycle—from architecting robust backends to deploying edge-optimized solutions.
 
-### AI & Computer Vision
-- **Core Domains:** Object Detection, Image Segmentation, Image Classification, OCR, and Motion Analysis.
-- **Frameworks:** PyTorch, Ultralytics, TensorFlow, Keras.
-- **Libraries:** OpenCV, Supervision, NumPy.
+- 🔭 **Currently Working On:** Developing practical AI solutions for commercial security and healthcare.
+- 🌱 **Learning:** Advanced frontend architectures (Vue 3 composition API) and scalable infrastructure.
+- 🎯 **Goal:** To build complete, robust, and deployable solutions from concept to completion.
 
-### Backend & Full-Stack Development
-- **Web Frameworks:** Django, Django REST Framework.
-- **Frontend Tech:** HTML, CSS, JavaScript, Bootstrap, Tailwind CSS.
-- **API Design:** RESTful APIs, WebSockets.
-- **Databases & Caching:** PostgreSQL, MySQL, SQLite, Redis.
+### ⚡ Fun Facts
+- 🇯🇵 I play so many Japanese video games (like **Dream Club**) that I actually learned to read and speak Japanese!
+- 🎰 **Gacha Gamer:** The rates are salty, but I keep drawing! (I even built simulators to test my luck).
+- 🐍 **Automation:** I wrote a Python script to automatically organize my entire file system because manual sorting is for mortals.
 
-### Languages & Core Concepts
-- **Primary Languages:** Python, JavaScript, HTML, CSS.
-- **Key Concepts:** Object-Oriented Programming (OOP), Multi-threading.
+---
+
+## 🛠️ Technical Arsenal
+
+### 🧠 AI & Computer Vision
+- **Core Frameworks:** PyTorch, Ultralytics (YOLO), TensorFlow, Keras.
+- **Libraries:** OpenCV, Supervision, NumPy, Scikit-learn.
+- **Tools:** Jupyter Notebooks, Anaconda.
+
+### 💻 Web Development
+- **Backend:** Django, FastAPI, Node.js, WebSockets.
+- **Frontend:** Vue.js, Vite, Tailwind CSS, Bootstrap, HTML5, CSS3.
+- **Data Visualization:** Chart.js, ApexCharts.
+- **Databases:** PostgreSQL, MySQL, MariaDB, SQLite.
+- **Caching & ORM:** Redis, SQLAlchemy.
+
+### 🗣️ Languages
+- **Primary:** Python, TypeScript, JavaScript.
 - **Previous Experience:** C#, Java, MATLAB.
 
-### Infrastructure & DevOps
-- **Deployment:** Docker, Nginx, Render.
+### 🏗️ Infrastructure & DevOps
+- **Deployment:** Docker, Nginx, Raspberry Pi (Edge Computing).
 - **CI/CD:** GitLab CI/CD.
-- **Version Control:** Git & GitHub.
-- **Development Tools:** VSCode, Postman.
+- **Tools:** Git, GitHub, VSCode, Postman, n8n (Workflow Automation).
+- **Core Concepts:** OOP, Multi-threading, RESTful APIs, Microservices.
 
 ---
 
-## 🚀 My Projects
+## 🚀 Showcase Projects
 
-Here are a few highlights from my portfolio:
+### 👁️ Computer Vision & AI
 
-| Project | Description | Tech Stack |
-|---|---|---|
-| **Real-time ANPR System** | A full-stack Automatic Number Plate Recognition system for commercial security, deployed on both edge devices (Raspberry Pi 5) and servers. | `Python`, `PyTorch`, `Django`, `OpenCV`, `WebSockets`, `Docker`, `GitLab CI/CD`, `Nginx` |
-| **YOLO Inference Toolkit** | An open-source Python toolkit to simplify the developer experience for the Ultralytics YOLO framework, focusing on ease of use and clean API design. | `Python`, `Ultralytics`, `PyTorch`, `OpenCV`, `Supervision` |
-| **Blue Archive Gacha Simulator** | A feature-rich fan project and web application built to simulate the gacha and character collection experience of the game *Blue Archive*. | `Python`, `Django`, `PostgreSQL`, `Tailwind CSS`, `JavaScript`, `Chart.js`, `Docker` |
+| Project | Description |
+| :--- | :--- |
+| [**Venus Sentinel (ANPR)**](https://github.com/catptype/ANPR-Showcase) | **Commercial Security System:** A real-time License Plate Recognition engine deployed on Edge (RPi5) and Server. Features multi-threaded processing, WebSocket broadcasting, and a Django UI for data labeling. |
+| [**Pill Identification System**](https://github.com/catptype/Pill-Identify-Showcase) | **Healthcare AI:** Capable of identifying diverse medicine forms (tablets, blisters, vials) with fine-grained recognition. Includes a custom dataset workflow and API integration for mobile apps. |
+| [**YOLO Inference Toolkit**](https://github.com/catptype/YOLO-Inference-Toolkit) | **Open Source Tool:** An OOP wrapper for Ultralytics that simplifies the developer experience. Provides a consistent "Predict → Decode" workflow for detection, segmentation, and pose estimation. |
+| [**Deep Learning Foundations**](https://github.com/catptype/Deep-Learning-for-Computer-Vision) | **Research to Code:** Implementing seminal papers from scratch, including VGG, ResNet, and Vision Transformers (ViT), to bridge theory and practice. |
+
+### 🌐 Full-Stack & Web Applications
+
+| Project | Description |
+| :--- | :--- |
+| [**Blue Archive Gacha Sim**](https://github.com/catptype/Blue-Archive-Gacha-Simulator-V2) | **Architecture Case Study:** A feature-rich simulator built twice to compare architectures: once as a Monolithic Django app, and again as a Decoupled API (FastAPI) + SPA (Vue). |
+| [**CZN Deck Calculator**](https://github.com/catptype/CZN-Deck-Calculator) | **Modern Frontend Tool:** A reactive cost calculator for the game *Chaos Zero Nightmare*. Demonstrates complex state management and i18n support. |
 
 ---
 
-## 📫 Get In Touch
+## 📊 GitHub Stats
 
-I'm always open to connecting with fellow developers and exploring new ideas. The best way to reach me is through LinkedIn.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=catptype&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="150" alt="Pawin's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=catptype&layout=compact&theme=transparent&hide_border=true" height="150" alt="Pawin's Top Languages" />
+</div>
 
-<a href="https://www.linkedin.com/in/pawin-prasertsakul/"><img src="https://api.iconify.design/logos:linkedin-icon.svg" alt="Pawin's Linkedin" width="50" height="50"/></a>
+---
+
+<div align="center">
+
+### 📫 Let's Connect
+
+I'm always interested in new challenges. Feel free to explore my repositories or reach out!
+
+<a href="https://www.linkedin.com/in/pawin-prasertsakul" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" height="40" width="40" alt="Connect on LinkedIn" />
+</a>
+
+</div>
