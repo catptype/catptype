@@ -62,6 +62,7 @@ I am an **AI and Full-Stack Engineer** with **7+ years of experience** rooted in
 | :--- | :--- |
 | [**Venus Sentinel (ANPR)**](https://github.com/catptype/ANPR-Showcase) | **Commercial Security System:** A real-time License Plate Recognition engine deployed on Edge (RPi5) and Server. Features multi-threaded processing, WebSocket broadcasting, and a Django UI for data labeling. |
 | [**Pill Identification System**](https://github.com/catptype/Pill-Identify-Showcase) | **Healthcare AI:** Capable of identifying diverse medicine forms (tablets, blisters, vials) with fine-grained recognition. Includes a custom dataset workflow and API integration for mobile apps. |
+| [**YOLO Dataset Auditor**](https://github.com/catptype/YOLO-tSNE-Visualizer) | **Data Quality Tool:** Automatically detects mislabeled images by extracting deep feature embeddings from YOLO models (v8-v12). Projects clusters via t-SNE and applies k-NN logic to pinpoint suspicious outliers. |
 | [**YOLO Inference Toolkit**](https://github.com/catptype/YOLO-Inference-Toolkit) | **Open Source Tool:** An OOP wrapper for Ultralytics that simplifies the developer experience. Provides a consistent "Predict → Decode" workflow for detection, segmentation, and pose estimation. |
 | [**Deep Learning Foundations**](https://github.com/catptype/Deep-Learning-for-Computer-Vision) | **Research to Code:** Implementing seminal papers from scratch, including VGG, ResNet, and Vision Transformers (ViT), to bridge theory and practice. |
 
